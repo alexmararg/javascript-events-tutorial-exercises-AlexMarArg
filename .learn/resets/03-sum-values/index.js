@@ -5,5 +5,5 @@ window.calculateSumListener = function() {
 	// Return the value of the input #secondNumber
 	let stringB = document.getElementById("secondNumber").value;
 	// Your code here
-	document.getElementById("resultNumber").value= String( Number(stringA)+Number(stringB));
+	
 };

@@ -5,6 +5,3 @@ window.onload = function myLoadFunction() {
 };
 
 // The listener function here
-document.getElementById("theGreen").addEventListener("click", function (e) {
-	alert( "woohoo!");
-});
